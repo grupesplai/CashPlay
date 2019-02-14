@@ -1,0 +1,13 @@
+c:\users\g1\documents\visual studio 2015\Projects\Ahorcado\Ahorcado\bin\Debug\Ahorcado.exe.config
+c:\users\g1\documents\visual studio 2015\Projects\Ahorcado\Ahorcado\bin\Debug\Ahorcado.exe
+c:\users\g1\documents\visual studio 2015\Projects\Ahorcado\Ahorcado\bin\Debug\Ahorcado.pdb
+c:\users\g1\documents\visual studio 2015\Projects\Ahorcado\Ahorcado\bin\Debug\Models.Library.dll
+c:\users\g1\documents\visual studio 2015\Projects\Ahorcado\Ahorcado\bin\Debug\Models.Library.pdb
+c:\users\g1\documents\visual studio 2015\Projects\Ahorcado\Ahorcado\obj\Debug\Ahorcado.csprojResolveAssemblyReference.cache
+c:\users\g1\documents\visual studio 2015\Projects\Ahorcado\Ahorcado\obj\Debug\Ahorcado.exe
+c:\users\g1\documents\visual studio 2015\Projects\Ahorcado\Ahorcado\obj\Debug\Ahorcado.pdb
+C:\Users\G1\Documents\Visual Studio 2015\Projects\Ahorcado\Ahorcado\bin\Debug\Ahorcado.ServiceLibrary.dll
+C:\Users\G1\Documents\Visual Studio 2015\Projects\Ahorcado\Ahorcado\bin\Debug\HtmlAgilityPack.dll
+C:\Users\G1\Documents\Visual Studio 2015\Projects\Ahorcado\Ahorcado\bin\Debug\Ahorcado.ServiceLibrary.pdb
+C:\Users\G1\Documents\Visual Studio 2015\Projects\Ahorcado\Ahorcado\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\G1\Documents\Visual Studio 2015\Projects\Ahorcado\Ahorcado\bin\Debug\HtmlAgilityPack.xml

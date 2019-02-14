@@ -1,0 +1,5 @@
+c:\Users\G1\documents\visual studio 2015\Projects\Ahorcado\Models.Library\bin\Debug\Models.Library.dll
+c:\Users\G1\documents\visual studio 2015\Projects\Ahorcado\Models.Library\bin\Debug\Models.Library.pdb
+c:\Users\G1\documents\visual studio 2015\Projects\Ahorcado\Models.Library\obj\Debug\Models.Library.dll
+c:\Users\G1\documents\visual studio 2015\Projects\Ahorcado\Models.Library\obj\Debug\Models.Library.pdb
+C:\Users\G1\Documents\Visual Studio 2015\Projects\Ahorcado\Models.Library\obj\Debug\Models.Library.csprojResolveAssemblyReference.cache

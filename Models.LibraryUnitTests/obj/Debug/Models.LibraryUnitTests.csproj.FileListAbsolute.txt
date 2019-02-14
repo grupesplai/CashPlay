@@ -1,0 +1,12 @@
+c:\Users\G1\documents\visual studio 2015\Projects\Ahorcado\Models.LibraryUnitTests\bin\Debug\Models.LibraryUnitTests.dll
+c:\Users\G1\documents\visual studio 2015\Projects\Ahorcado\Models.LibraryUnitTests\bin\Debug\Models.LibraryUnitTests.pdb
+c:\Users\G1\documents\visual studio 2015\Projects\Ahorcado\Models.LibraryUnitTests\bin\Debug\Models.Library.dll
+c:\Users\G1\documents\visual studio 2015\Projects\Ahorcado\Models.LibraryUnitTests\bin\Debug\Models.Library.pdb
+c:\Users\G1\documents\visual studio 2015\Projects\Ahorcado\Models.LibraryUnitTests\obj\Debug\Models.LibraryUnitTests.csprojResolveAssemblyReference.cache
+c:\Users\G1\documents\visual studio 2015\Projects\Ahorcado\Models.LibraryUnitTests\obj\Debug\Models.LibraryUnitTests.dll
+c:\Users\G1\documents\visual studio 2015\Projects\Ahorcado\Models.LibraryUnitTests\obj\Debug\Models.LibraryUnitTests.pdb
+C:\Users\G1\Documents\Visual Studio 2015\Projects\Ahorcado\Models.LibraryUnitTests\bin\Debug\Ahorcado.ServiceLibrary.dll
+C:\Users\G1\Documents\Visual Studio 2015\Projects\Ahorcado\Models.LibraryUnitTests\bin\Debug\Ahorcado.ServiceLibrary.pdb
+C:\Users\G1\Documents\Visual Studio 2015\Projects\Ahorcado\Models.LibraryUnitTests\bin\Debug\HtmlAgilityPack.dll
+C:\Users\G1\Documents\Visual Studio 2015\Projects\Ahorcado\Models.LibraryUnitTests\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\G1\Documents\Visual Studio 2015\Projects\Ahorcado\Models.LibraryUnitTests\bin\Debug\HtmlAgilityPack.xml
